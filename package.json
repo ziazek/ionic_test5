@@ -23,5 +23,10 @@
     "webpack": "1.12.14"
   },
   "name": "ionic_test5",
-  "description": "ionic_test5: An Ionic project"
+  "description": "ionic_test5: An Ionic project",
+  "cordovaPlugins": [],
+  "cordovaPlatforms": [
+    "ios",
+    "android"
+  ]
 }
